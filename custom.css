@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Prata&display=swap');
+/*Font
+font-family: 'Inter', sans-serif; (For Body)
+font-family: 'Prata', serif;  (for Heading)
+*/
+.custom-img {
+  background-image: url("back.jpg");
+}
+.font_nav{
+ font-family: 'Inter', sans-serif;}
+.font_body{
+  font-family: 'Prata', serif;
+}
